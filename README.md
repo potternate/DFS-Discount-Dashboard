@@ -43,7 +43,7 @@ This project is a **DFS Discount Dashboard** that collects and processes DFS pla
 
 1. **Data Collection**: The main application script (`main.py`) collects DFS player prop discount data from various sources (e.g., APIs or CSV files).
 2. **BigQuery Integration**: The collected data is processed and uploaded to **Google BigQuery**.
-3. **Looker Dashboard**: The data in BigQuery is connected to **Looker**, where it is visualized in an interactive dashboard. The dashboard is accessible at [insert link].
+3. **Looker Dashboard**: The data in BigQuery is connected to **Looker**, where it is visualized in an interactive dashboard. The dashboard is accessible at (https://lookerstudio.google.com/s/kRaXfNvh_OA).
 
 ## Usage
 
