@@ -55,14 +55,6 @@ This project is a **DFS Discount Dashboard** that collects and processes DFS pla
 
 3. Visit the Looker dashboard at (https://lookerstudio.google.com/s/kRaXfNvh_OA) to interact with the data.
 
-## Project Structure
-
-.
-├── main.py                  # Main script for data collection and uploading to BigQuery
-├── requirements.txt          # Python dependencies
-├── .env                      # Environment variables (not included in version control)
-└── README.md                 # Project documentation
-
 ## Technologies
 
 - **Python**: Main language for data collection and processing
